@@ -40,7 +40,7 @@ Remeaitree functions by creating a decentralized website with two-factor verific
 
 Our project aimed to develop a decentralized medical record platform accessible via two-factor authentication, making use of Aadhar and phone numbers. In the current version, we introduced Remeaitree, a subscription-based feature allowing users to access their medical history conveniently. We also incorporated AI-based research on diseases, enhancing patient outcomes. The addition of video conferencing for online doctor consultations addresses the need for remote healthcare.
 
-**Conclusion**
+## Conclusion
 
 The results of our project demonstrate the feasibility of a decentralized medical record platform, improving data security and accessibility for patients. AI-driven disease research promises quicker and more accurate diagnoses. In the future, we plan to further enhance the platform's security with Blockchain technology and offer direct medication delivery through 1mg integration. 
 
